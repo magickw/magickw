@@ -2,7 +2,7 @@
 
 I'm Baofeng Guo - I'm a fullstack developer
 
-- 🌱 I’m currently learning Javascript, Node.js, Express.js, MongoDB, React.js, MERN, Python
+- 🌱 I’m currently learning Javascript, Node.js, Express.js, MongoDB, React.js, MERN, Python, C++
 
 My skills include:
 
