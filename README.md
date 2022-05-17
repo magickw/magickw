@@ -2,7 +2,7 @@
 
 I'm Baofeng Guo - I'm a fullstack developer
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=magickw&left_color=green&right_color=red) since May 17, 2022
+![visitors](https://visitor-badge.glitch.me/badge?page_id=magickw&left_color=green&right_color=red) 
 ![Profile views](https://gpvc.arturio.dev/magickw) since May 17, 2022
 
 
