@@ -2,7 +2,7 @@
 
 I'm Baofeng Guo - I'm a fullstack developer
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=magickw&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=magickw&left_color=green&right_color=red) since May 17, 2022
 
 - 🌱 I’m currently learning Javascript, Node.js, Express.js, MongoDB, React.js, MERN, Python, C++
 
