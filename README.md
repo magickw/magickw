@@ -6,6 +6,7 @@ I'm Baofeng Guo - I'm a fullstack developer
 ![Profile views](https://gpvc.arturio.dev/magickw) since May 17, 2022
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/magickw)](https://git.io/awesome-stats-card)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magickw&layout=compact)](https://github.com/magickw/github-readme-stats)
 
 
