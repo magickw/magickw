@@ -8,8 +8,6 @@ I'm Baofeng Guo - I'm a fullstack developer
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/magickw)](https://git.io/awesome-stats-card)
 
 
-- 🌱 I’m currently learning Javascript, Node.js, Express.js, MongoDB, React.js, MERN, Python, C++
-
 My skills include:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,mysql,mongodb,nodejs,react,redux,regex,express,bootstrap,git,graphql,materialui,tailwind,vscode,heroku,md,firebase,sass,apollo&perline=10)](https://skillicons.dev)
