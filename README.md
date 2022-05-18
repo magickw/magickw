@@ -5,8 +5,7 @@ I'm Baofeng Guo - I'm a fullstack developer
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=magickw&left_color=green&right_color=red) 
 ![Profile views](https://gpvc.arturio.dev/magickw) since May 17, 2022
 
-![](https://raw.githubusercontent.com/magickw/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/magickw/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/magickw)](https://git.io/awesome-stats-card)
 
 
 - 🌱 I’m currently learning Javascript, Node.js, Express.js, MongoDB, React.js, MERN, Python, C++
