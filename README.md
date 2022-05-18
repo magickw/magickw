@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Baofeng Guo - I'm a fullstack developer
 
@@ -9,14 +9,16 @@ I'm Baofeng Guo - I'm a fullstack developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magickw&layout=compact)](https://github.com/magickw/github-readme-stats)
 
+## Random Jokes
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-My skills include:
+## My skills include:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,mysql,mongodb,nodejs,react,redux,regex,express,bootstrap,git,graphql,materialui,tailwind,vscode,heroku,md,firebase,sass,apollo&perline=10)](https://skillicons.dev)
 
 
-Learning:
+## Learning:
 
 [![Learning Skills](https://skillicons.dev/icons?i=py,cpp&perline=10)](https://skillicons.dev)
