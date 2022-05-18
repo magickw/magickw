@@ -9,7 +9,7 @@ I'm Baofeng Guo - I'm a fullstack developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magickw&layout=compact)](https://github.com/magickw/github-readme-stats)
 
-## Random Jokes
+## Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
