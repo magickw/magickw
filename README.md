@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 I'm Baofeng Guo - I'm a fullstack developer
 
@@ -7,6 +7,8 @@ I'm Baofeng Guo - I'm a fullstack developer
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/magickw)](https://git.io/awesome-stats-card) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magickw&layout=compact)](https://github.com/magickw/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=magickw)](https://git.io/streak-stats)
 
 ## Random Joke
 
