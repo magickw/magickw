@@ -14,6 +14,11 @@ I'm Baofeng Guo - I'm a fullstack developer
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+##LeetCode Stats
+<a href="https://github.com/magickw/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=peterguo1983" width="400"/>
+</a>
+
 ## Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,mysql,mongodb,nodejs,react,redux,regex,express,bootstrap,git,graphql,materialui,tailwind,vscode,heroku,md,firebase,sass,apollo&perline=10)](https://skillicons.dev)
