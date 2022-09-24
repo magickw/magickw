@@ -15,7 +15,7 @@ I'm Baofeng Guo - I'm a fullstack developer
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/peterguo1983?theme=light&font=Redacted%20Script)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)
 
 ## Skills:
 
