@@ -16,7 +16,7 @@ I'm Baofeng Guo - I'm a fullstack developer
 
 ## LeetCode Stats
 <a href="https://github.com/magickw/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=peterguo1983" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=peterguo1983" width="800"/>
 </a>
 
 ## Skills:
