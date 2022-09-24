@@ -11,7 +11,6 @@ I'm Baofeng Guo - I'm a fullstack developer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=magickw)](https://git.io/streak-stats)
 
 ## Random Joke
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## LeetCode Stats
