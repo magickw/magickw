@@ -9,6 +9,9 @@ I'm Baofeng Guo - I'm a fullstack developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magickw&layout=compact)](https://github.com/magickw/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=magickw)](https://git.io/streak-stats)
+##Support:
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bfguo" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 
 ## Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
