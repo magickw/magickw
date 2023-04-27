@@ -2,6 +2,9 @@
 
 I'm Baofeng Guo - I'm a fullstack developer
 
+## Support:
+<a href="https://www.buymeacoffee.com/bfguo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=magickw&left_color=green&right_color=red) 
 ![Profile views](https://gpvc.arturio.dev/magickw) since May 17, 2022
 
@@ -9,9 +12,6 @@ I'm Baofeng Guo - I'm a fullstack developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magickw&layout=compact)](https://github.com/magickw/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=magickw)](https://git.io/streak-stats)
-
-##Support:
-<a href="https://www.buymeacoffee.com/bfguo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 ## Random Joke
