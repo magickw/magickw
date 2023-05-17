@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Baofeng Guo - I'm a fullstack developer
+I'm Baofeng Guo, a full-stack developer. I am looking for a full-stack development position.
 
 ## Support:
 <a href="https://www.buymeacoffee.com/bfguo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
