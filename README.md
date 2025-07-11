@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Baofeng Guo, a full-stack developer. I am looking for a full-stack development position.
+I'm Baofeng Guo, a full-stack developer. I am looking for a full-stack development position. Want $50 in Claude Code credits? Sign up sing my referral code and get $50 instantly! https://anyrouter.top/register?aff=cQUf
 
 ## Support:
 <a href="https://www.buymeacoffee.com/bfguo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
