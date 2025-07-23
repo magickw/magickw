@@ -10,7 +10,7 @@ I'm Baofeng Guo, a full-stack developer. I am looking for a full-stack developme
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/magickw)](https://git.io/awesome-stats-card) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magickw&layout=compact)](https://github.com/magickw/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=magickw&theme=dark)](https://git.io/streak-stats))
+[![GitHub Streak](https://streak-stats.demolab.com?user=magickw&theme=dark)](https://git.io/streak-stats)
 
 
 ## Random Joke
